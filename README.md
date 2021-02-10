@@ -4,7 +4,3 @@
 
 ### The Dates mentioned in the schduled means every year this was the dates of programs 
 
-![Open Source Programs](https://socialify.git.ci/Ayush7614/Open Source Programs/image?description=1&font=Raleway&forks=1&issues=1&language=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
